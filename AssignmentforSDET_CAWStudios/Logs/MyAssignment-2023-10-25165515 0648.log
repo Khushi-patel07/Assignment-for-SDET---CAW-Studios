@@ -1,0 +1,4 @@
+16:55:17,873 [main] INFO  com.AssignmentforSDET_CAWStudios.tests.Base_Test- Chrome browser was opened successfully
+16:55:20,008 [main] INFO  com.AssignmentforSDET_CAWStudios.tests.Base_Test- website was opened
+16:55:23,783 [main] INFO  com.AssignmentforSDET_CAWStudios.tests.Base_Test- Test case passed 
+16:55:23,963 [main] INFO  com.AssignmentforSDET_CAWStudios.tests.Base_Test- website was closed
